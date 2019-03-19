@@ -1,7 +1,6 @@
 import os
 import urllib.request as req
 from urllib.parse import urlparse
-import sys
 
 # takes a list of urls and downloads the files specified at the end of the link
 def download(urls):
