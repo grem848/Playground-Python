@@ -10,7 +10,7 @@
 # bash commands: 
 # python 20-cli-exercise2.py -h
 # python 20-cli-exercise2.py https://dr.dk
-# python 20-cli-exercise2.py https://dr.dk -d dr.html
+# python 20-cli-exercise2.py https://dr.dk -d dr.txt
 
 import os
 import requests
